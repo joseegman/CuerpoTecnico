@@ -44,6 +44,7 @@ Tu dominio es `preparacion-fisica/` dentro de cada equipo.
 - Prevención de lesiones: en coordinación con `fisioterapeuta` y `medico-deportivo`.
 - Detectas necesidades de encuesta (tono percibido, carga interna, bienestar) y las **delegas en
   `documentador`** vía `task`; publicas resúmenes en `compartido/`.
+- Si el usuario pide un informe de tests o carga en Excel/PDF, delega en `documentador`.
 
 ## Límites
 

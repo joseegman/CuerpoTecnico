@@ -105,6 +105,12 @@ Si responde un plan organizado en español → instalación correcta.
 - Los documentos **no se sobrescriben**: si pides rehacer algo, se añade `-v2` al nombre.
 - **Eliminar documentos** lo decides tú.
 
+## 4b. Generar informes en Excel o PDF
+
+- Pide al agente: «dame este informe en Excel», «en PDF» o «en ambos».
+- El agente te dará el texto listo para copiar en Excel o para imprimir a PDF.
+- Si tienes conectado un MCP (Gmail/Drive/Microsoft 365), puede crear el archivo por ti.
+
 ## 5. Problemas frecuentes
 
 | Problema | Solución |

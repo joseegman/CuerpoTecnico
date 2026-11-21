@@ -57,6 +57,16 @@ El agente de dominio identifica qué necesita medir y **delega en `documentador`
 
 - El documentador marca la encuesta `estado: archivado` y lo refleja en el índice de la temporada.
 
+## 8. Generación de informes (Excel y PDF)
+
+- El usuario puede pedir el informe en Markdown, Excel (.xlsx) o PDF.
+- El agente de dominio genera primero el informe en Markdown (con tablas) y lo guarda en su dominio.
+- Si el usuario pide Excel/PDF, el `documentador` coordina la conversión:
+  - En opencode: delega en `build`, que ejecuta `scripts/generar-informe.py`.
+  - En Claude Desktop/AnythingLLM: usa un MCP (Google Sheets/Docs) si está conectado; si no, entrega
+    el Markdown listo para exportar (CSV para Excel, imprimir a PDF).
+- El `.xlsx`/`.pdf` se guarda en la misma carpeta, mismo nombre base; versionado `-v2` si ya existe.
+
 ## Convenciones
 
 - Nombres de respuestas: `<apellido>-<nombre>.md` (nominales: por competidor, o por equipo/torneo/temporada).

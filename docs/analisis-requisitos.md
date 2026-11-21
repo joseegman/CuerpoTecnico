@@ -130,6 +130,10 @@ en las mismas carpetas.
 **nunca se sobrescriben**: las versiones nuevas usan sufijo numérico (`-v2`, `-v3`, ...). El usuario es
 el único responsable de eliminar documentos.
 
+**RF-14** — Los agentes pueden generar informes en **Excel (.xlsx)** y/o **PDF** a elección del usuario.
+El Markdown se conserva siempre como fuente auditable; la conversión la coordina el `documentador`
+(vía `build` y `scripts/generar-informe.py` en opencode, o vía MCP/exportación en Claude/AnythingLLM).
+
 ## 6. Requisitos no funcionales
 
 - **RNF-01 (Aislamiento de dominio):** la contención se garantiza por permisos del harness (edición), no solo por instrucciones del prompt.

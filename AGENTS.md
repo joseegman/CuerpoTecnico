@@ -123,6 +123,24 @@ Detalle del workflow: skill `ciclo-formulario`.
   Ranking Nacional RFEJYDA además del IJF.
 - Psicólogo y médico aplican el protocolo de prevención en el deporte (entornos seguros).
 
+## 10. Generación de informes (Excel y PDF)
+
+Los agentes pueden generar informes en **Excel (.xlsx)** y/o **PDF** según lo que pida el usuario, además
+del Markdown (que siempre se conserva como fuente auditable).
+
+- **Quién:** el `documentador` coordina la generación; la conversión la ejecuta el agente `build`
+  (único con acceso a `bash`) usando `scripts/generar-informe.py`.
+- **Cómo pedirlo:** el usuario dice «dame este informe en Excel», «en PDF» o «en ambos». El agente
+  genera primero el informe en Markdown y luego lo convierte.
+- **Dónde:** el `.xlsx`/`.pdf` se guarda en la misma carpeta del dominio que el `.md`, con el mismo
+  nombre base (p. ej. `2026-09-10-scouting-rivales.xlsx`).
+- **Versionado:** si ya existe, se crea `-v2`, `-v3`, ...; nunca se sobrescribe. El borrado es del usuario.
+- **En Claude Desktop / AnythingLLM:** el agente produce el informe en Markdown y, si hay un MCP
+  conectado (Google Docs/Sheets), genera el archivo ahí; si no, entrega el Markdown listo para exportar
+  (CSV para Excel, imprimir a PDF).
+
+Ver `scripts/README.md`.
+
 ## 8. Cómo escalar
 
 - **Nueva temporada:** crear `temporadas/<año>/` copiando la estructura (o pedírselo al documentador).

@@ -78,6 +78,23 @@ documentador que genere los formularios.
   `-v3`, ...).
 - **Eliminar documentos** es tu decisión: bórralos tú si ya no los quieres.
 
+## Generar informes en Excel o PDF
+
+Puedes pedir a los asistentes que te den cualquier informe en **Excel (.xlsx)** o **PDF** (además del
+texto normal, que siempre se guarda).
+
+- Dile: «dame este informe en Excel», «en PDF» o «en ambos».
+- En **Claude Desktop / ChatGPT**: el asistente te da el texto listo para copiar en Excel o para
+  imprimir a PDF (también puede crear el archivo si tienes conectado Google Drive/Docs).
+- En **AnythingLLM**: igual, con la opción de guardar en tu ordenador o en Drive si tienes MCP.
+- En **opencode** (si un técnico te lo instaló): el sistema genera el archivo `.xlsx`/`.pdf`
+  automáticamente en la carpeta del informe.
+
+Ejemplo de petición:
+
+> `Rol: analista-rendimiento`. Haz el informe de scouting de los rivales del próximo torneo y
+> **dámelo en Excel y PDF**.
+
 ## Privacidad y datos personales (importante)
 
 - La medicina y la psicología son **confidenciales** (categoría especial por RGPD).

@@ -80,6 +80,12 @@ responde como el entrenador principal.
 - Los documentos **no se sobrescriben**: si pides rehacer algo, se añade `-v2` al nombre.
 - **Eliminar documentos** lo decides tú.
 
+## 5b. Generar informes en Excel o PDF
+
+- Pide al asistente: «dame este informe en Excel», «en PDF» o «en ambos».
+- El asistente te dará el texto listo para copiar en Excel o para imprimir a PDF.
+- Si tienes conectado Google Drive/Docs (ver `claude-desktop/mcp/`), puede crear el archivo por ti.
+
 ## 6. Problemas frecuentes
 
 | Problema | Solución |

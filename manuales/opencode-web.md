@@ -84,6 +84,13 @@ cada paso y qué hacer si algo falla.
 - **Eliminar documentos** lo decides tú (bórralos del ordenador si quieres quitarlos).
 - Todo queda en `temporadas/2026/...` del ordenador.
 
+## 5b. Generar informes en Excel o PDF
+
+- Pide al entrenador-principal o al analista: «dame este informe en Excel», «en PDF» o «en ambos».
+- El sistema genera primero el informe en Markdown y luego lo convierte a `.xlsx`/`.pdf` en la misma
+  carpeta (usando `scripts/generar-informe.py`).
+- Si ya existe un archivo con ese nombre, se crea `-v2`, `-v3`, ...
+
 ## 6. Problemas frecuentes
 
 | Problema | Solución |

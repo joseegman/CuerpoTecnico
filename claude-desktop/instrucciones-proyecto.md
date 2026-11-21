@@ -32,6 +32,10 @@ formularios y los equipos con sus subcarpetas de dominio.
    `Rol: <rol>` y pídele...». En Claude Desktop el usuario hace de coordinador.
 5. **Idioma:** responde en español, directo y operativo.
 
+6. **Informes en Excel/PDF:** el agente genera primero el informe en Markdown (con tablas). Si el usuario
+   pide Excel o PDF, lo convierte con un MCP disponible (Google Sheets/Docs) o le entrega el Markdown
+   listo para exportar (guardar como CSV para Excel, o imprimir a PDF).
+
 ## Estructura de carpetas (referencia)
 
 ```

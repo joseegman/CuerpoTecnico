@@ -46,6 +46,28 @@ Ejemplo de prompt inicial:
 > Grand Prix de Viena (marzo), Europeo (abril), Mundial (septiembre). Crea el plan de temporada 2026 y
 > decide qué encuestas iniciales necesitamos.
 
+## Generar informes en Excel o PDF
+
+Los agentes pueden generar informes en **Excel (.xlsx)** y/o **PDF** a elección del usuario (además del
+Markdown, que siempre se conserva como fuente auditable).
+
+- Pide al agente: «dame este informe en Excel», «en PDF» o «en ambos».
+- En **opencode**: el `documentador` coordina la conversión usando `scripts/generar-informe.py`
+  (requiere `pip install -r scripts/requirements.txt` una vez).
+- En **Claude Desktop / AnythingLLM**: el agente genera el Markdown y, si hay un MCP conectado
+  (Google Sheets/Docs), crea el archivo ahí; si no, entrega el Markdown listo para exportar
+  (CSV para Excel, imprimir a PDF).
+- El `.xlsx`/`.pdf` se guarda en la misma carpeta del dominio, con el mismo nombre base y versionado
+  `-v2` si ya existe.
+
+Ejemplo de uso (opencode):
+
+```bash
+python scripts/generar-informe.py temporadas/2026/rendimiento/2026-09-10-scouting.md --format xlsx pdf
+```
+
+Ver `scripts/README.md`.
+
 ## Modelo de trabajo
 
 - Los agentes **crean** en su dominio las subcarpetas y documentos que necesiten; el usuario **no sube**
