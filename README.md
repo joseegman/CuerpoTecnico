@@ -110,6 +110,12 @@ un agente por rol. AnythingLLM es compatible con MCP, así que el `documentador`
 Google Drive y Microsoft 365. En Docker multiusuario se pueden aislar `medicina/` y `psicologia/` en
 workspaces restringidos. La separación de dominios es por convención (no impone permisos por rol).
 
+## Descargas
+
+- **Descargar todo el proyecto (ZIP):** https://github.com/joseegman/CuerpoTecnico/archive/refs/heads/main.zip
+- **Guía de instalación para usuarios no técnicos:** [README-USUARIO.md](README-USUARIO.md) (incluye enlaces
+  de descarga de cada agente por separado).
+
 ## Herramientas del harness
 
 El `documentador` usa los MCPs/plugins disponibles del harness para generar y desplegar formularios

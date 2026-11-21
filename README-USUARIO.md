@@ -110,6 +110,47 @@ Todo está en la carpeta del proyecto:
 - Dentro de cada equipo: `compartido/` (resúmenes visibles a todos), y una subcarpeta por dominio
   (`tecnica/`, `preparacion-fisica/`, `psicologia/`, `medicina/`, `nutricion/`, etc.).
 
+## Descargas directas
+
+Todo el proyecto está en GitHub (privado). Para descargarlo completo:
+
+- **Descargar todo (ZIP):** https://github.com/joseegman/CuerpoTecnico/archive/refs/heads/main.zip
+
+### Agentes de opencode (archivos individuales)
+
+Descarga cada agente por separado (clic derecho → «Guardar enlace como...»):
+
+| Agente | Enlace de descarga |
+|---|---|
+| Entrenador principal | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/entrenador-principal.md |
+| Entrenador de técnica | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/entrenador-tecnica.md |
+| Preparador físico | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/preparador-fisico.md |
+| Entrenador de estiramientos | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/entrenador-estiramientos.md |
+| Psicólogo deportivo | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/psicologo-deportivo.md |
+| Médico deportivo | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/medico-deportivo.md |
+| Fisioterapeuta | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/fisioterapeuta.md |
+| Nutricionista | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/nutricionista.md |
+| Analista de rendimiento | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/analista-rendimiento.md |
+| Documentador | https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/.opencode/agents/documentador.md |
+
+### Tarjetas de rol para Claude Desktop / AnythingLLM
+
+Las mismas tarjetas están en `claude-desktop/roles/` y `anythingllm/roles/`. Descárgalas todas con el
+ZIP de arriba, o una por una sustituyendo la ruta en el enlace, por ejemplo:
+
+- https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/claude-desktop/roles/entrenador-principal.md
+- https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/claude-desktop/instrucciones-proyecto.md
+- https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/anythingllm/instrucciones-agente.md
+
+### Archivos clave
+
+- Constitución operativa: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/AGENTS.md
+- Análisis de requisitos: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/docs/analisis-requisitos.md
+- Configuración opencode: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/opencode.json
+- Manual Claude Desktop: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/manuales/claude-desktop.md
+- Manual AnythingLLM: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/manuales/anythingllm.md
+- Manual opencode (web): https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/manuales/opencode-web.md
+
 ## Más información
 
 - [Análisis completo de requisitos](docs/analisis-requisitos.md)
