@@ -1,5 +1,8 @@
 # Cuerpo Técnico — Selección Olímpica (Judo y Artes Marciales)
 
+> **¿No eres de informática?** Empieza por [`README-USUARIO.md`](README-USUARIO.md), que explica qué es
+> el proyecto y cómo instalarlo en ChatGPT, Claude Desktop o AnythingLLM paso a paso.
+
 Cuerpo Técnico de agentes para dar soporte integral a una selección olímpica: planificación, técnica,
 preparación física, estiramientos/movilidad, psicología, medicina, fisioterapia, nutrición, análisis de
 rendimiento y documentación.
