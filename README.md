@@ -32,6 +32,10 @@ rendimiento y documentación.
 - [Instalar y usar Claude Desktop](manuales/claude-desktop.md)
 - [Instalar y usar AnythingLLM](manuales/anythingllm.md)
 
+## Tutoriales
+
+- [Gestión de clubs, colegios y equipos](manuales/tutorial-gestion-equipos.md)
+
 ## Cómo empezar
 
 1. Reinicia opencode (la configuración de agentes se carga al arrancar).

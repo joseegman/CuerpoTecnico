@@ -151,6 +151,10 @@ ZIP de arriba, o una por una sustituyendo la ruta en el enlace, por ejemplo:
 - Manual AnythingLLM: https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/manuales/anythingllm.md
 - Manual opencode (web): https://raw.githubusercontent.com/joseegman/CuerpoTecnico/main/manuales/opencode-web.md
 
+## Tutoriales
+
+- [Gestión de clubs, colegios y equipos](manuales/tutorial-gestion-equipos.md)
+
 ## Más información
 
 - [Análisis completo de requisitos](docs/analisis-requisitos.md)
