@@ -1,0 +1,143 @@
+LICENCIA DE USO RESTRINGIDO
+Cuerpo Técnico — Selección Olímpica (Judo y Artes Marciales)
+
+Copyright (c) 2026 José Enrique García (joseegman). Todos los derechos reservados.
+
+Este documento establece las únicas condiciones bajo las cuales se autoriza el uso de este
+proyecto. Se considera «Proyecto» el conjunto de agentes, prompts, skills, instrucciones,
+documentación, plantillas, formularios, scripts, estructura de carpetas y demás ficheros
+publicados bajo el nombre «Cuerpo Técnico», así como su metodología y organización.
+
+1. CONCESIÓN DE USO
+
+1.1. Se concede al usuario una licencia personal, individual, limitada, no exclusiva, no
+     transferible, no sublicenciable y revocable para usar el Proyecto con la finalidad de
+     preparar, planificar y gestionar deportistas, exclusivamente para uso personal y
+     educativo sin ánimo de lucro.
+
+1.2. La licencia comprende únicamente:
+     a) descargar e instalar una copia del Proyecto para uso propio;
+     b) ejecutar el Proyecto y cargar sus agentes en herramientas compatibles (opencode,
+        Claude Desktop, AnythingLLM u otras);
+     c) ajustar la configuración local estrictamente necesaria para el funcionamiento
+        (por ejemplo, rutas, temporadas o equipos), siempre que no se redistribuya ni se
+        altere el contenido del Proyecto;
+     d) conservar copias de seguridad personales no publicadas.
+
+1.3. Copias técnicas. Se permiten las copias estrictamente necesarias para la instalación,
+     ejecución o copia de seguridad personal del Proyecto. Estas copias no constituyen
+     cesión ni autorización de distribución alguna.
+
+1.4. Uso comercial excluido. No se concede ningún derecho de uso comercial. Queda prohibido
+     usar el Proyecto, total o parcialmente, en actividades profesionales, retribuidas o con
+     ánimo de lucro (incluidos clubes, federaciones, academias, consultoras o servicios de
+     pago) sin autorización previa y por escrito del titular.
+
+2. RESTRICCIONES
+
+Sin autorización previa y por escrito del titular, queda prohibido:
+
+     a) copiar, reproducir, distribuir, publicar, comunicar públicamente o poner a
+        disposición de terceros el Proyecto, total o parcialmente, por cualquier medio;
+     b) clonar, bifurcar (fork), replicar, espejar (mirror) o mantener copias públicas o
+        privadas accesibles a terceros del repositorio o de sus contenidos;
+     c) modificar, adaptar, traducir, transformar, descompilar, aplicar ingeniería inversa o
+        crear obras derivadas del Proyecto;
+     d) vender, alquilar, arrendar, licenciar, sublicenciar, ceder, prestar o explotar
+        comercialmente el Proyecto o cualquier obra derivada;
+     e) incorporar el Proyecto, total o parcialmente, en otro producto, servicio, repositorio,
+        curso o publicación;
+     f) eliminar, ocultar, modificar o hacer ilegible cualquier aviso de autoría, copyright,
+        marca o esta licencia;
+     g) atribuirse la autoría del Proyecto, firmarlo como propio, reclamar su titularidad o
+        registrarlo, en todo o en parte, como obra propia (incluidos registros de propiedad
+        intelectual o industrial);
+     h) usar el nombre del autor, del Proyecto o sus marcas para respaldar, promocionar o dar
+        credibilidad a productos, servicios o versiones no autorizadas.
+
+3. AUTORÍA Y DERECHOS MORALES
+
+3.1. La titularidad del Proyecto y todos los derechos de propiedad intelectual e industrial
+     sobre él permanecen en el titular. Esta licencia no transmite propiedad alguna.
+
+3.2. Se reconocen y respetan los derechos morales del autor, que son irrenunciables e
+     inalienables conforme a la legislación aplicable.
+
+3.3. Cualquier referencia permitida al Proyecto deberá conservar íntegramente la mención:
+     «Cuerpo Técnico © 2026 José Enrique García (joseegman)».
+
+3.4. La mera visualización o el acceso al código en un repositorio público no otorga licencia
+     alguna distinta de la aquí concedida ni autoriza su copia, clonación o reutilización.
+
+4. CONTENIDOS CREADOS POR EL USUARIO
+
+4.1. Los documentos, planes, informes, formularios y respuestas que el usuario genere o
+     complete con ayuda del Proyecto son de su titularidad, y el titular no reclama derecho
+     alguno sobre ellos.
+
+4.2. El usuario no adquiere por ello derecho alguno sobre las plantillas, prompts, agentes,
+     metodología, estructura o documentación que los originan, que siguen sujetos a esta
+     licencia.
+
+5. DATOS PERSONALES Y ÁMBITO SANITARIO
+
+5.1. El usuario es el único responsable de los datos personales que introduzca o trate con el
+     Proyecto (incluidos datos de salud de categoría especial) y de cumplir el Reglamento
+     (UE) 2016/679 (RGPD) y la normativa aplicable. El titular no accede a esos datos.
+
+5.2. El Proyecto es una herramienta de apoyo a la organización del trabajo técnico. No
+     constituye consejo médico, diagnóstico ni tratamiento, y no sustituye el criterio de
+     profesionales sanitarios o titulados.
+
+6. AUSENCIA DE GARANTÍAS
+
+El Proyecto se proporciona «tal cual» y «según disponibilidad», sin garantía de ningún tipo,
+expresa o implícita, incluidas, sin carácter limitativo, las de comerciabilidad, idoneidad para
+un fin concreto, exactitud, integridad o ausencia de errores. El uso del Proyecto es
+responsabilidad exclusiva del usuario.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+
+En la máxima medida permitida por la ley, el titular no será responsable de daños directos,
+indirectos, incidentales, especiales, consecuenciales o punitivos, ni de lucro cesante, pérdida
+de datos, lesiones deportivas, decisiones técnicas, médicas o de selección adoptadas con base
+en el uso del Proyecto, derivados del mismo o relacionados con él, incluso si se hubiera
+advertido de la posibilidad de tales daños.
+
+8. DURACIÓN, INCUMPLIMIENTO Y TERMINACIÓN
+
+8.1. Esta licencia entra en vigor con el uso del Proyecto y se extiende mientras el usuario
+     cumpla sus condiciones.
+
+8.2. Cualquier incumplimiento de esta licencia extingue automáticamente la autorización de uso,
+     sin necesidad de requerimiento.
+
+8.3. Tras la extinción, el usuario deberá cesar todo uso del Proyecto y destruir o eliminar
+     todas las copias en su poder, salvo aquellas cuya conservación exija la ley.
+
+8.4. Las cláusulas 2, 3, 6, 7 y 9 subsistirán tras la terminación.
+
+9. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+
+Esta licencia se rige por la legislación española. Para cualquier controversia, las partes se
+someten a la jurisdicción de los juzgados y tribunales del domicilio del titular, renunciando a
+cualquier otro fuero que pudiera corresponderles.
+
+10. ACEPTACIÓN
+
+La instalación, ejecución o uso del Proyecto implica la aceptación plena de esta licencia. Si no
+está de acuerdo con sus términos, no utilice el Proyecto.
+
+11. CONTACTO Y AUTORIZACIONES
+
+Para solicitar cualquier autorización (uso comercial, distribución, adaptación u otras), diríjase
+al titular en: joseenrique.garcia@tmfcoders.com
+
+---
+
+ENGLISH NOTICE — All rights reserved. This is a proprietary, restricted-use licence: you may
+use the project for personal, non-commercial, educational purposes only. Copying, cloning,
+forking, redistributing, modifying, creating derivative works, commercial exploitation and
+claiming authorship are prohibited without the prior written permission of the copyright
+holder. The project is provided "as is", without warranty of any kind. This licence is governed
+by Spanish law. In case of discrepancy, the Spanish version prevails.

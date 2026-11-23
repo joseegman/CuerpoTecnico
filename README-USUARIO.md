@@ -160,3 +160,17 @@ ZIP de arriba, o una por una sustituyendo la ruta en el enlace, por ejemplo:
 - [Análisis completo de requisitos](docs/analisis-requisitos.md)
 - [Constitución operativa (reglas del cuerpo técnico)](AGENTS.md)
 - [Manuales de instalación (no técnicos)](manuales/)
+
+## Licencia de uso (importante)
+
+Este proyecto es **gratuito para uso personal y educativo**, pero **no es libre**: su autor conserva
+todos los derechos.
+
+- **Puedes:** descargarlo, instalarlo y usarlo para tu propio trabajo o para aprender.
+- **No puedes:** copiarlo, volver a publicarlo, subirlo a otro repositorio, clonarlo para repartirlo,
+  modificarlo y presentarlo como tuyo, venderlo ni usarlo en un servicio de pago.
+- **Autoría:** el proyecto es de **José Enrique García (joseegman)**. No lo firmes ni lo presentes como
+  propio.
+
+Si un club, federación o empresa quiere usarlo profesionalmente, debe pedir permiso a
+joseenrique.garcia@tmfcoders.com. Las condiciones completas están en [`LICENSE`](LICENSE).

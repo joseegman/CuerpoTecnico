@@ -125,3 +125,15 @@ workspaces restringidos. La separación de dominios es por convención (no impon
 El `documentador` usa los MCPs/plugins disponibles del harness para generar y desplegar formularios
 (p. ej. Google Forms o Notion) y cae a markdown autocontenido si no existen. Para añadir un MCP, edita
 `opencode.json` (sección `mcp`) y reinicia opencode.
+
+## Licencia
+
+**Uso restringido — todos los derechos reservados.** © 2026 José Enrique García (joseegman).
+
+Se permite **usar** este proyecto para fines **personales y educativos sin ánimo de lucro**. **No** se
+permite copiarlo, clonarlo, bifurcarlo (fork), redistribuirlo, publicarlo, modificarlo, crear obras
+derivadas, explotarlo comercialmente ni atribuirse su autoría, total o parcialmente, sin autorización
+previa y por escrito del titular.
+
+El texto completo y vinculante está en [`LICENSE`](LICENSE). Para cualquier autorización, escribe a
+joseenrique.garcia@tmfcoders.com.
